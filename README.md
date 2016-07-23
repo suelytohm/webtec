@@ -1,9 +1,9 @@
 # Webtec Sistemas
 Criação de website da Webtec Sistemas Arcoverde - PE
 Data inícial: 21/03/2016
-Data final: -
+Data final: 08/04/2016
 
-Componentes externos utilizados:
+Frameworks utilizados:
  - Bootstrap
  - ScrollIt
  - Jssor Slider
